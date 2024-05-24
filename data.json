@@ -1,0 +1,35 @@
+{
+  "hospitals": [
+    {
+        "id":"1",
+      "name": "General Hospital",
+      "patientCount": 120,
+      "location": "TVM Statue"
+    },
+    {
+        "id":"2",
+      "name": "Medical College",
+      "patientCount": 250,
+      "location": "Ulloor"
+    },
+    {
+        "id":"3",
+      "name": "GG Hospital",
+      "patientCount": 370,
+      "location": "Kottayam"
+    },
+    {
+        "id":"4",
+      "name": "Mercy Hospital",
+      "patientCount": 675,
+      "location": "UK London"
+    },
+    {
+        "id":"5",
+      "name": "Eye Care Hospital",
+      "patientCount": 70,
+      "location": "Kollam"
+    },
+    {}
+  ]
+}
